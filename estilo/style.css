@@ -17,7 +17,7 @@
 #063d1e
 */
 
-/*referências para todo o documento*/
+/*root => referências para todo o documento*/
 :root {
     --cor0:#e2e4b1;
     --cor1:#83e1ad;
@@ -31,7 +31,7 @@
     --fonte-android: 'Android', cursive;
 }
 
-/*configurações globais (zerando parâmentros preestabelecidos)*/ 
+/* * => configurações globais (zerando parâmentros preestabelecidos)*/ 
 * {
     margin: 0px;
     padding: 0px;    
